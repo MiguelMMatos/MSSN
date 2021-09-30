@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Miguel\Desktop\Faculdade\Mssn\Apresentacao\PRJ_45412_45423\java\Processing\.metadata\.plugins\org.eclipse.jdt.core
+1810983247.index
+2502902422.index

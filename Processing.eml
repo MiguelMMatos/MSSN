@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="corretto-11 (2)" jdk_type="JavaSDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="core.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/core.jar!/"/>
+	</lib>
+	<lib name="javamp3-1.0.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/javamp3-1.0.4.jar!/"/>
+	</lib>
+	<lib name="jsyn-20171016.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/jsyn-20171016.jar!/"/>
+	</lib>
+	<lib name="sound.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/sound.jar!/"/>
+	</lib>
+</component>
