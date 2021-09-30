@@ -5,3 +5,4 @@ They interact with the map by eating (gaining life) or getting damage in the fra
 
 You can interact with them by clicking and controlling one of them or utilizing the menu to spawn and control their comportments.
 
+![alt text](https://github.com/MiguelMMatos/MSSN/blob/main/Screenshot_2.png?raw=true)
